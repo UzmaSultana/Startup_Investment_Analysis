@@ -20,6 +20,7 @@ Key Insights
 - Successful founders: Co-founders, domain experts, data-driven, clear communicators
 
 Status
+
 ✅ Data cleaned  
 ✅ Exploratory analysis done  
 ✅ Visuals and summary reports created  
